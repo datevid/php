@@ -87,7 +87,11 @@ after than execute next command
 ```
 composer install
 ```
-you see how to fix this error (here)[https://stackoverflow.com/a/50632332]
+If you see agan errors, run this command:
+```
+composer update --no-scripts
+```
+You see how to fix this error (here)[https://stackoverflow.com/a/50632332]
 Now execute agan
 ```
 php artisan serve
