@@ -50,6 +50,11 @@ sudo apt install curl
 See website Composer about instalation:
 [https://getcomposer.org/download/](https://getcomposer.org/download/)
 
+Check Composer version:
+```
+composer --version
+```
+
 ## Fix errors with instalation laravel
 
 ### requires ext-curl
