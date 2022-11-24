@@ -96,7 +96,7 @@ Now execute agan
 ```
 php artisan serve
 ```
-### No application encryption key has been specified
+### * No application encryption key has been specified
 when you see in you browser the error "No application encryption key has been specified"
 You need to run in you console the next command:
 ```
