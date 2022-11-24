@@ -63,7 +63,7 @@ See proyect in the web with the command below:
 ```
 php artisan serve
 ```
-## Fix errors with instalation laravel
+## Fix errors with instalation Laravel
 
 ### * Requires ext-curl
 For those who use php8.1
