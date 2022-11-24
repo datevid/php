@@ -1,4 +1,4 @@
-##Install Laravel in linux with ubuntu or similar distro
+## Install Laravel in linux with ubuntu or similar distro
 
 ### 1. Install Apache Web Server
 To check, we have to run the following command.
@@ -42,6 +42,14 @@ After instalation check version:
 ```
 php --version
 ```
+### 3. Install Composer
+Install curl:
+```
+sudo apt install curl
+```
+See website Composer about instalation:
+(aaa)[https://getcomposer.org/download/]
+
 ## Fix errors with instalation laravel
 
 ### requires ext-curl
