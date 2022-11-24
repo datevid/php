@@ -65,7 +65,7 @@ php artisan serve
 ```
 ## Fix errors with instalation laravel
 
-### - Requires ext-curl
+### * Requires ext-curl
 For those who use php8.1
 ```
 sudo apt-get install php8.0-curl
@@ -74,7 +74,7 @@ Or simply run below command to install by your version:
 ```
 sudo apt-get install php-curl
 ```
-### - Error php artisan serve
+### * Error php artisan serve
 To execute command php artisan serve, show next error:
 
 Php artisan serve can't find the autoload.php
@@ -96,7 +96,7 @@ Now execute agan
 ```
 php artisan serve
 ```
-### - No application encryption key has been specified
+### * No application encryption key has been specified
 when you see in you browser the error "No application encryption key has been specified"
 You need to run in you console the next command:
 ```
