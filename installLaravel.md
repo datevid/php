@@ -54,7 +54,15 @@ Check Composer version:
 ```
 composer --version
 ```
-
+### 4. Install Laravel
+Execute next command:
+```
+composer create-project --prefer-dist laravel/laravel example-app
+```
+See proyect in the web with the command below:
+```
+php artisan serve
+```
 ## Fix errors with instalation laravel
 
 ### requires ext-curl
