@@ -48,7 +48,7 @@ Install curl:
 sudo apt install curl
 ```
 See website Composer about instalation:
-(aaa)[https://getcomposer.org/download/]
+[https://getcomposer.org/download/](https://getcomposer.org/download/)
 
 ## Fix errors with instalation laravel
 
